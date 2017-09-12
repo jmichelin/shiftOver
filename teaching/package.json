@@ -1,0 +1,19 @@
+{
+  "name": "teaching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Michelin <john@javascriptjohn.com> (http://www.javascriptjohn.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "1.0.3",
+    "express": "4.15.4",
+    "express-session": "1.15.5",
+    "md5": "2.2.1",
+    "open": "0.0.5",
+    "sha1": "1.1.1"
+  }
+}
